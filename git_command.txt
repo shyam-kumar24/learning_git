@@ -1,3 +1,7 @@
 # touch index.html style.css script.js >> to create multiple files at a time
 # git init >> to initialise git.this stores every version of our repository
 # git add index.html >> to stage a file from changing area to staging area
+# git add. >> this puts all files from changing area to staging area
+# git status >> to get the list of all the files. which are places where. 
+# git config --global user.name >> to get the name of the user
+# git commit -m "initial commit" >> this is for commiting the file in repository . m stand for message to be written
