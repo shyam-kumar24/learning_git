@@ -1,0 +1,3 @@
+# touch index.html style.css script.js >> to create multiple files at a time
+# git init >> to initialise git.this stores every version of our repository
+# git add index.html >> to stage a file from changing area to staging area

@@ -1,0 +1,51 @@
+
+>> ctrl + l : to clear the screen of git bash .
+>> mkdir to make forder , mv to move forder to some other place , cd ../ to go one step back in directory . 
+>> touch index.html style.css script.js : to create all these at a time 
+>> git -v
+>> git init,  to create a git repository 
+>> view > show hidden files to see the hidden files 
+>> u means un tracked , a means addeded for to track :  git add style.css
+>> git add . to add all files in the staged area
+>> git status to see all the files in staged area 
+>> git config --global user."email"
+>> git config --global user."name"
+>> use arrow key to go to previous command
+>> u can go to the commited code by their ids > git checkout "is"
+>> type Q to come out of git log command
+
+
+>> git branch " branch name ": to create a new brach in the repository . 
+>> git checkout about : to go in about branch .
+>> git log --all --oneline : to get all the logs in oneline 
+>> to commmit : git add .  >>  git commit -m "hello para added"
+
+>> git log --all --oneline --graph . this shows all commits done by the user . on master and branch file .
+
+>> to go in different files or branches : use : git checkout 'branch name'
+
+>> to create a branch : git branch contact , to delete a branch : git branch --delete contact , here contact is name of branch 
+
+>> ctrl + shift + p : search git lens graph , u will get branch graph  
+
+password : Git24@sk, username : shyam-kumar24
+
+>> git remote add origin https://github.com/shyam-kumar24/learning_git.git . this is to connect with the online repository with local system.
+>> git remote show origin . this is to check whether it connected or not .
+>> git push -u origin main. to push a branch .
+>> git push , to push all the local code and changes to the github repository . 
+>> Q to quit or come out of the 
+
+
+>> to reset the code added by mistakenly : git reset --hard 'commit id'
+
+
+
+
+
+
+
+
+
+
+
