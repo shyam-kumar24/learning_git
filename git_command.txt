@@ -8,3 +8,5 @@
 # git log --all --oneline >> to see all commits in a single row . or a single line 
 # git checkout branch_name
 # git log --all --oneline --graph
+# git remote show origin
+# git push -u origin main
