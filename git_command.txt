@@ -16,4 +16,8 @@
 # git reset --hard 4c030e6 >> to reset a commit from local system till we have not pushed the commit to 
   origin we can reset by this command . and id will be the id to which we have to go 
 
-#  
+#  git stash -m "stashing script data" >> if somecode is incomplete and i want to save it then 
+we can stash it without commiting 
+
+#  git stash list >> to see the stashed data. 
+#  git stash clear
