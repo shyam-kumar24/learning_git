@@ -24,3 +24,8 @@
 # git log --all --oneline >> to see all commits in a single row . or a single line 
 # git checkout branch_name
 # git log --all --oneline --graph
+
+# git fetch >> to bring on the local if any other new commit has came on github origin. 
+# git push to upload the changes
+
+# when origin head is ahead of local main then we need to merge the two . heads
