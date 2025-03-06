@@ -1,6 +1,22 @@
 # touch index.html style.css script.js >> to create multiple files at a time
 # git init >> to initialise git.this stores every version of our repository
 # git add index.html >> to stage a file from changing area to staging area
+# git add . >> this puts all files from changing area to staging area
+# git status >> to get the list of all the files. which are places where. 
+# git config --global user.name >> to get the name of the user
+# git commit -m "initial commit" >> this is for commiting the file in repository . m stand for message to be written
+# git log >> to see all the commit
+# q >> to go out of the command .
+# git checkout dcfa30ce57b26b3c5376e48094b0f850ef77424a >> to go into the older version of any file. 
+# git checkout main >> to come to the present version . 
+# git add.  >> to stage all the files.
+# git branch -d about >> to delete a branch
+# git branch About >> to create a branch.
+# git checkout about >> to go inside a branch.
+
+# touch index.html style.css script.js >> to create multiple files at a time
+# git init >> to initialise git.this stores every version of our repository
+# git add index.html >> to stage a file from changing area to staging area
 # git add. >> this puts all files from changing area to staging area
 # git status >> to get the list of all the files. which are places where. 
 # git config --global user.name >> to get the name of the user
