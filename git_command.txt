@@ -5,3 +5,6 @@
 # git status >> to get the list of all the files. which are places where. 
 # git config --global user.name >> to get the name of the user
 # git commit -m "initial commit" >> this is for commiting the file in repository . m stand for message to be written
+# git log --all --oneline >> to see all commits in a single row . or a single line 
+# git checkout branch_name
+# git log --all --oneline --graph
