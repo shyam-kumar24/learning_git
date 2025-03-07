@@ -21,3 +21,5 @@ we can stash it without commiting
 
 #  git stash list >> to see the stashed data. 
 #  git stash clear
+
+#  git commit -am "added one command in notes"
